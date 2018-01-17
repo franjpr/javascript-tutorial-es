@@ -1,3 +1,4 @@
+
 # The JavaScript Tutorial
 
 This repository hosts the content of the Modern JavaScript Tutorial, published at [https://javascript.info](https://javascript.info).
@@ -12,7 +13,6 @@ In progress:
 - Spanish: https://github.com/lmauromb/javascript-tutorial-es
 
 If you'd like to translate it into your language then fork the English tutorial and go ahead. I can publish the translation with your credits on a domain like fr.javascript.info or you can do it on your domain.
->>>>>>> upstream/master
 
 You can also send PR for this file to indicate that there's work in progress.
 
